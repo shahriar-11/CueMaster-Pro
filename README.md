@@ -36,7 +36,7 @@
 
 4. **Open the app:**
    ```
-   http://localhost/cuemaster-pro/
+ http://localhost/cue_masterpro
    ```
 
 5. **Login with:**
