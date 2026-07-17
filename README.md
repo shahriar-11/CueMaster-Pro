@@ -37,6 +37,8 @@
 4. **Open the app:**
    ```
  http://localhost/cue_masterpro
+milestone 2-----
+http://localhost/cue_masterpro_m2/auth/login.php
    ```
 
 5. **Login with:**
