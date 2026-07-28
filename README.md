@@ -39,8 +39,8 @@
  http://localhost/cue_masterpro
 milestone 2-----
 http://localhost/cue_masterpro_m2/auth/login.php
-   ```
-
+  ```
+M3 : http://localhost/cue_masterpro/dashboard/index.php
 5. **Login with:**
    - Username: `admin`
    - Password: `admin123`
