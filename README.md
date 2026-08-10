@@ -37,7 +37,6 @@
 4. **Open the app:**
    ```
  http://localhost/cue_masterpro
-M2&M3 : http://localhost/cue_masterpro/dashboard/index.php
 
   ```
 5. **Login with:**
